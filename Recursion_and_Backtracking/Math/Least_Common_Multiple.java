@@ -1,6 +1,6 @@
 //Calcuate LCM Using GCD
 import java.util.*;
-class Greatest_Common_Divisor{
+class Least_Common_Divisor{
   public static void main(String args[]){
     Scanner sc = new Scanner(System.in);
     System.out.print("Enter 1st Number: ");
