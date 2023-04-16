@@ -26,7 +26,7 @@ class Sub_Program extends Single_Inheritance {
   }
 }
 class Programs_Below extends Sub_Program {
-  int age = -1;
+  int age;
   Programs_Below() {
     this.age = -1;
   }
